@@ -8,7 +8,7 @@ console.log(v3)
 // console.log("1" + 2 + 3)     123
 
 
-// these kind of conversions are not prefered in real world problems and production work
+// these kind of conversions are not preferred in real world problems and production work
 
 console.log(true) // prints true
 console.log(+true) // prints 1 which is kind of ok for "true" value but we see boolean to number conversion
